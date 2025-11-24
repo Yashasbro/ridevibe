@@ -1195,7 +1195,7 @@ const RideVibeComplete = () => {
                     <select name="serviceType" required className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none">
                       <option value="">Type</option>
                       <option value="fuel">Fuel</option>
-                      <option value="mechanic">
+                      <option value="mechanic">Mechanic</option>
                       <option value="food">Food</option>
                       <option value="accommodation">Accommodation</option>
                     </select>
@@ -1400,3 +1400,4 @@ const RideVibeComplete = () => {
 };
 
 export default RideVibeComplete;
+
